@@ -10,7 +10,7 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("VS+Git托管下的代码");
+            Console.WriteLine("VS+Git托管下的代码000");
         }
     }
 }
